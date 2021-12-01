@@ -5,13 +5,20 @@
 ------------------------------------------------------------------------------------------------
 
 ### Tools and languages i use
- ![MySQL (1)](https://user-images.githubusercontent.com/91095677/144284093-0e25b1ff-ed1c-4eb7-ac07-5070be9ab713.png)
+ ![MySQL (1)](https://user-images.githubusercontent.com/91095677/144284093-0e25b1ff-ed1c-4eb7-ac07-5070be9ab713.png)&nbsp;
  ![Java](https://user-images.githubusercontent.com/91095677/144284577-95e8694a-0fbe-4c0b-8510-43b99c157f05.png)
  ![SpringBoot (1)](https://user-images.githubusercontent.com/91095677/144284720-0ae83c15-8532-4460-9f6f-e3016f556cc0.png)
  ![Thymeleaf](https://user-images.githubusercontent.com/91095677/144284768-46f2da17-3d54-44f5-ae74-baabd5108987.png)
  ![HTML](https://user-images.githubusercontent.com/91095677/144284799-47b2e681-ef55-4f81-82b0-bac58e882d54.png)
- ![CSS (1) (1)](https://user-images.githubusercontent.com/91095677/144285246-8b4b7722-522e-42a8-9a27-0aed96ac122b.png) 
- ![Boostrap](https://user-images.githubusercontent.com/91095677/144285303-edf46885-3e2d-41e6-a382-a0cd6510398b.png)
+ ![CSS (1) (1)](https://user-images.githubusercontent.com/91095677/144285246-8b4b7722-522e-42a8-9a27-0aed96ac122b.png)&nbsp;&nbsp;&nbsp; 
+ ![Boostrap](https://user-images.githubusercontent.com/91095677/144285303-edf46885-3e2d-41e6-a382-a0cd6510398b.png)&nbsp;&nbsp;&nbsp;
+![JavaScript](https://user-images.githubusercontent.com/91095677/144286559-1e7a54e8-dfa4-4ec7-ad04-a881ccfa78c4.png)&nbsp;&nbsp;&nbsp;
+![React (1)](https://user-images.githubusercontent.com/91095677/144287370-06fa45f5-2583-469e-8d5e-6d976d3fff53.png)
+
+
+
+
+
 
 
 
