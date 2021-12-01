@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, im Leandro Battocchio 👋
+
+
+### Herramientas y lenguajes que utilizo
+ https://pbs.twimg.com/profile_images/1273081551354396672/-Tzadxix_400x400.jpg
+
 
 <!--
 **leandrobattocchio/leandrobattocchio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
