@@ -1,20 +1,25 @@
-### Hi there, im Leandro Battocchio 👋
-------------------------------------------------------------------------------------------------
+# Hi there, im Leandro Battocchio 👋
 
-### I like backend and frontend(more backend)
-------------------------------------------------------------------------------------------------
-
-### Tools and languages i use
- ![MySQL (1)](https://user-images.githubusercontent.com/91095677/144284093-0e25b1ff-ed1c-4eb7-ac07-5070be9ab713.png)&nbsp;
- ![Java](https://user-images.githubusercontent.com/91095677/144284577-95e8694a-0fbe-4c0b-8510-43b99c157f05.png)
- ![SpringBoot (1)](https://user-images.githubusercontent.com/91095677/144284720-0ae83c15-8532-4460-9f6f-e3016f556cc0.png)
- ![Thymeleaf](https://user-images.githubusercontent.com/91095677/144284768-46f2da17-3d54-44f5-ae74-baabd5108987.png)
- ![HTML](https://user-images.githubusercontent.com/91095677/144284799-47b2e681-ef55-4f81-82b0-bac58e882d54.png)
- ![CSS (1) (1)](https://user-images.githubusercontent.com/91095677/144285246-8b4b7722-522e-42a8-9a27-0aed96ac122b.png)&nbsp;&nbsp;&nbsp; 
- ![Boostrap](https://user-images.githubusercontent.com/91095677/144285303-edf46885-3e2d-41e6-a382-a0cd6510398b.png)&nbsp;&nbsp;&nbsp;
-![JavaScript](https://user-images.githubusercontent.com/91095677/144286559-1e7a54e8-dfa4-4ec7-ad04-a881ccfa78c4.png)&nbsp;&nbsp;&nbsp;
-![React (1)](https://user-images.githubusercontent.com/91095677/144287370-06fa45f5-2583-469e-8d5e-6d976d3fff53.png)
-
+# Tools and languages i use
+![MySQL (1)](https://user-images.githubusercontent.com/91095677/144288195-24b79023-ce01-4647-8f36-58360884662c.png)
+![JAVA-ICON](https://user-images.githubusercontent.com/91095677/144288191-e576da59-60d2-4477-82f2-09c9b9bc6881.png)
+![SpringBoot (1)](https://user-images.githubusercontent.com/91095677/144288198-6bdb5d4d-68c3-4e72-b48d-87786d4840f0.png)
+![Thymeleaf](https://user-images.githubusercontent.com/91095677/144288199-216f01e4-ceb4-45a8-b63f-49724e7c906b.png)
+![HTML](https://user-images.githubusercontent.com/91095677/144288190-07cb651f-6078-42c2-8311-3c25060f3db7.png)
+![CSS (1) (1)](https://user-images.githubusercontent.com/91095677/144288187-2223b579-8d38-41b7-b9f0-bd2db4d1d818.png)&nbsp;
+![Boostrap](https://user-images.githubusercontent.com/91095677/144288185-d7998ca8-b56d-4eaa-9b49-d28f7cea729a.png)&nbsp;
+![JavaScript](https://user-images.githubusercontent.com/91095677/144288193-097b7684-e49e-421c-8bde-c7abdc35304a.png)&nbsp;
+![React (1)](https://user-images.githubusercontent.com/91095677/144288196-1d723412-2c7a-4d6d-9fe1-05787a086eeb.png)
+# Nivel de afinidad
+### MySQL - Intermedio
+### Java - Intermedio
+### SpringBoot - Intermedio
+### Thymeleaf - Intermedio
+### HTML - Intermedio
+### CSS - Intermedio
+### Boostrap - Intermedio
+### JavaScript - Básico
+### React - Básico
 
 
 
