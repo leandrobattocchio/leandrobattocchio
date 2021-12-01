@@ -10,7 +10,7 @@
 ![Boostrap](https://user-images.githubusercontent.com/91095677/144288185-d7998ca8-b56d-4eaa-9b49-d28f7cea729a.png)&nbsp;
 ![JavaScript](https://user-images.githubusercontent.com/91095677/144288193-097b7684-e49e-421c-8bde-c7abdc35304a.png)&nbsp;
 ![React (1)](https://user-images.githubusercontent.com/91095677/144288196-1d723412-2c7a-4d6d-9fe1-05787a086eeb.png)
-# Nivel de afinidad
+# Affinity level
 ### MySQL - Intermedio
 ### Java - Intermedio
 ### SpringBoot - Intermedio
