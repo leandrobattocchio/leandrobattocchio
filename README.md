@@ -18,8 +18,8 @@
 ### HTML - Intermedio
 ### CSS - Intermedio
 ### Boostrap - Intermedio
-### JavaScript - Básico
-### React - Básico
+### JavaScript - Intermedio
+### React - Intermedio
 
 
 
